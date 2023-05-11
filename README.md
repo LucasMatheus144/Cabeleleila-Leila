@@ -1,7 +1,7 @@
 # Cabeleleila-Leila
 
-Teste para estagio Dsin  e 
-Sistema desenvolvido em Python
+Teste para estagio Dsin,
+Sistema desenvolvido em Python e Sqlite
 
 
         Tela Inicial como sistema de login
