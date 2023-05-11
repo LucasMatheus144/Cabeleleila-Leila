@@ -34,7 +34,7 @@ Teste para estagio Dsin
 4 - Mostrar os dados dos clientes
   Pegunta se quer saber de algum dado de cliente especifico e mostra todos os dados
   
-Tela do Cliente
+        Tela do Cliente
 
 ![image](https://github.com/LucasMatheus144/Cabeleleila-Leila/assets/79222732/f5a515b1-4bd2-4b64-8616-e0e7f21f05ca)
 
