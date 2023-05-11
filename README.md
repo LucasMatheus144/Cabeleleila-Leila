@@ -11,6 +11,7 @@ Teste para estagio Dsin
 1 - Login do Usuario
   Verifica se existe o login e a senha no banco de dados, caso exista ela leva a tela de usuarios
   caso nao exista, leva a tela de Cadastro ou tentar novamente fazer o login
+  cadastrado no banco -> Adminstrador -->  Login: Admin1  ,  Senha: admin1
   
 2 - Cadastro do Usuario
   Pede um login e uma senha, depois pede as informaçoes do usuario como Nome Completo, telefone, 
