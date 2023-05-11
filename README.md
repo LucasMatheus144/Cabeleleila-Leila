@@ -3,7 +3,7 @@
 Teste para estagio Dsin
 
 
-Tela Inicial como sistema de login
+        Tela Inicial como sistema de login
 
 ![image](https://github.com/LucasMatheus144/Cabeleleila-Leila/assets/79222732/2a470257-aa9d-4854-ab0e-488cecd61c6b)
 
@@ -16,7 +16,7 @@ Tela Inicial como sistema de login
   Pede um login e uma senha, depois pede as informaçoes do usuario como Nome Completo, telefone, 
   endereço, email e rg. Depois salva no banco de dados Usuario e Cliente
  
- Tela do Administrador
+        Tela do Administrador
  
  ![image](https://github.com/LucasMatheus144/Cabeleleila-Leila/assets/79222732/ceffcb0f-c4a4-4ab8-bdde-f63222ca542d)
  
